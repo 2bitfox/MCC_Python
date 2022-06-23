@@ -10,7 +10,11 @@ The class itself which directly calls the public API. It's current functions all
 
 ## mcc_data.py
 
-My own example / playing around with the data, and graphing it with plotly.
+An example of pulling all of the teams data (username plus overall coin count) and saving it as a .csv file (out.csv)
 
-An example of the data from yellow tean (their total coin counts) from MCC pride 22. This is the current output of this file
-![Screenshot 2022-06-22 225019](https://user-images.githubusercontent.com/94010300/175205160-58ede6b3-ca4b-412c-bab2-a208a770fce5.png)
+
+## example.py
+
+An example of using the csv file to display the data from MCC Pride 2022
+
+![image](https://user-images.githubusercontent.com/94010300/175427784-69823b01-9d70-4949-8385-10551b71c1b6.png)
