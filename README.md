@@ -1,6 +1,6 @@
 # MCC_Python
 
-A python class I created for personal use, to access [Noxcrew's MCC api](https://github.com/Noxcrew/mcchampionship-api) through python
+A python class I created for personal use, to easily make calls to [Noxcrew's MCC api](https://github.com/Noxcrew/mcchampionship-api).
 
 I'll write a better readme later. remind me to fill this out more
 
